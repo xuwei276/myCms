@@ -1,0 +1,6 @@
+{
+  "app_name": "myapp",
+  "port": "9000",
+  "static_path": "/manage/static",
+  "mode":"dev"
+}
